@@ -1,0 +1,36 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  padding: 10px;
+}
+
+.replies {
+  margin-left: 70px;
+}
+
+.reply {
+  border: 1px dotted blue;
+  margin: 6px;
+  padding: 6px;
+}
+
+.newReply {
+  margin: 10px 5px 10px 5px;
+}
+
+.thread {
+  border: 2px solid blue;
+  padding: 6px;
+  margin-bottom: 6px;
+}
+
+.id {
+  font-size: 11px;
+}
+
+#submitNewThread {
+  margin: 50px;
+}
